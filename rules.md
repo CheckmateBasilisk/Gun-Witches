@@ -1,8 +1,33 @@
+<!--
+
+description length:
+
+1 tweet
+............................................................................................................................................
+
+2 tweets
+........................................................................................................................................................................................................................................................................................
+
+2 1/2 tweets
+..............................................................................................................................................................................................................................................................................................................................................................
+
+
+-->
+
 # Gun Witches
 
 Em Gun Witches você interpreta uma pistoleira arcana, munida de feitiços tenebrosos e armas ferozes, entalhadas em runas e adornadas com fetiches totêmicos ancestrais.
 
 ## Ambientação
+
+## Tons e Temas
+- **Subversão** de expectativas e histórias tradicionais.
+- **Agência**: as Acólitas de Kaliber são únicas, cada uma a seu modo, empunhando suas bênçãos e habilidades e fazendo valer suas vontades num mundo em que todos têm seu lugar definido.
+- **Empoderamento**: munidas das ferramentas e do poder, as Acólitas
+- Power Fantasy: pistoleiras são figuras quase folclóricas.
+    - Rumores contam de uma cidade terraplanada; dano colateral de um duelo violento entre duas acólitas de Kaliber.
+- Aventura: é um mundo perigoso lá fora, mas se encaixar e viver uma vida pacata não rola. Por sorte você tem Kaliber a seu lado.
+- Marginalização:  O mundo é um lugar estável e funcional, mas sem espaço para você. Você se tornou um agente independente porque foi marginalizada ou foi excluída por ser caótica demais para o mundo? Sua mera presença é subversiva, e embora a sociedade funcione relativamente bem, há instâncias em que falha e estruturas opressivas prevalecem.
 
 ### Weird West
 ### Deidades e Organizações Religiosas
@@ -42,6 +67,8 @@ Beemote é a grande besta, mestre das terras e seu irmão gêmeo, Leviatã é a 
 
 #### Shub-Niggurath
 
+A cabra negra do bosque, com suas milhares de crias, comanda medonhos poderes da carne: mutação, regeneração, transformação e renascimento. Tudo isso muito útil nas mãos de médicos devidamente certificados e portando sigilas e sinetes do ancião tétrico. Seu culto
+
 #### Absalom
 
 Rei da decadência, exuberância e desejo, assim como ambição e rebeldia.
@@ -62,20 +89,23 @@ Os elfos foram os pioneiros da engenharia e balística, e grande parte de suas m
 A rara e perigosíssima arte de forjar armas de fogo imbuídas de magia surgiu entre os elfos. Atualmente alguns remanescentes da raça ainda praticam a arte da Forja Arcana e suas lendárias obras são cobiçadas por Pistoleiras Arcanas.
 
 #### Anões e os Ronin
-<!-- concept: quite fascist, samurai dwarves, with ronin that left the nazi stuff behind -->
+<!-- concept: quite fascist, samurai dwarves, with ronin that left that stuff behind -->
 " 'Minha honra é minha lealdade'. Sério, falavam isso no meu ouvido como martelo na bigorna. Não aguentava mais e fui embora. Sinto falta dos meus irmãos, mas não do resto."
 
 Barbudos, resilientes e estóicos, a cultura anã valoriza a família, tradições e comprometimento e honra.
 
-Clãs (ou Gōzoku) formam a espinha dorsal da comunidade anã, e sua cultura é baseada em rígidas classes sociais e permeada por um tom militarista. Tendem a ser pouco receptivos a estrageiros.
+Clãs (ou Gōzoku) formam a espinha dorsal da comunidade anã, e sua cultura é baseada em rígidas classes sociais e permeada por um tom militarista. São pouco receptivos a estrageiros.
 
 É de se esperar que uma sociedade assim tenha seus dissidentes, e não é incomum encontrar guerreiros errantes que renunciaram seu legado em busca de escrever as próprias histórias. Estes são chamados Ronin e vagam vendendo seus serviços como exímios espadachins.
 
 #### Proletariado Orc
 #### Vampiros Industrialistas
+
+Suas atividades são manifestações de aço e concreto de suas não-vidas malditas: sorvem do solo e dos mares o mais valioso para nutrir um sangue-suga fascíncora.
+
 #### Oni e suas Gangues
 #### Demônios e Anjos
-<!--Concept: angels and demons as a colossal corporation waging war against one another -->
+<!--Concept: angels and demons as a colossal corporations waging war against one another -->
 "Uma vez a cada século a gente finge que se odeia e encena uma guerra apocalíptica, mas é só durante a visita dos executivos. Os velhos engravatados do conselho de guerra estão trancados na cúpula celestial a tanto tempo que nem se deram conta que a guerra do apocalipse nem faz mais sentido."
 
 Demônios de asas coriáceas e chifres, e anjos de asas penadas e auréolas reluzentes são coisa de milênios passados. Atualmente, anjos e demônios vêm em várias formas e cores e costumam se preocupar mais com aproveitar as próprias vidas do que servir mestres antiquados.
@@ -122,7 +152,7 @@ Não existem sucessos críticos nem falhas críticas sob circunstâncias especí
 #### Vida de Pistoleiras
 Pistoleiras Arcanas têm 6 pontos de vida. Sempre que sofrerem um ferimento, risque um na ficha. Se sofrer um ferimento no último ponto de vida, a Pistoleira está mortalmente ferida e morrerá no início da próxima rodada.
 
-Quando sofrer um ferimento em algum dos últimos dois pontos de vida, trata-se de um Ferimento Crítico, e você deverá rolar 1d12 na tabela de Ferimentos Críticos.
+Quando sofrer um ferimento em algum dos últimos dois pontos de vida, trata-se de um Ferimento Crítico, e você deverá rolar 1d12 na tabela de Ferimentos Críticos e aplicar o resultado.
 #### Vida de PDMs
 Personagens do Mestre (PDMs) também têm uma quantidade de pontos de vida e sofrem ferimentos da mesma maneira. Se sofrerem ferimentos no último ponto de vida, morrem de imediato.
 
@@ -151,15 +181,14 @@ O valor-base para a Proteção de Pistoleiras é 5+. Assume-se que as roupas, so
 #### Salvaguarda
 Representa a resistência do personagem a efeitos mágicos, como feitiços, encantos e maldições. Sempre que for alvo de magia, a rolagem de conjuração deve exceder a Salvaguarda para que a mágica surta efeito, similar a ataques e proteção.
 
-Salvaguarda é sempre um valor seguido de '+' (como 3+). Quanto maior, mais difícil será causar um ferimento.
-
+Salvaguarda é sempre um valor seguido de '+' (como 3+). Quanto maior, mais dificilmente um feitiço surtirá efeito.
 
 ### Magia e Tiroteio
 #### Golpes Críticos
 
 Quando um personagem desfere um Golpe Crítico, tem a chance de causar sérios ferimentos extras. Se causar dano, adicionalmente role 1d12 na tabela de Ferimentos Críticos.
 
-Quando um golpe é considerado crítico fica a critério do mestre.
+Fica a critério do mestre quando um golpe é considerado crítico.
 
 **Ferimentos Críticos**
 |1d12 | Exemplo |
@@ -186,17 +215,12 @@ Talvez seja conveniente decidir aleatoriamente um lugar do corpo. Segue a tabela
 | 3,4,5 | Peito e barriga |
 | 1,2 | Outro(s) |
 
-Várias raças no mundo fantástico de Gun Witches têm certos apêndices que humanos não possuem como chifres, asas ou caudas. Utilize o resultado 1,2-Outros da tabela para representá-los.
+Várias raças no mundo fantástico de Gun Witches têm certos apêndices que humanos não possuem, como chifres, asas ou caudas. Utilize o resultado 1,2-Outros da tabela para representá-los.
 
 #### Pela Culatra
+
+
 ### Equipamento
-## Tons e Temas
-- Subversão:
-- Agência:
-- Empoderamento:
-- Power Fantasy:
-- Aventura:
-- Marginalização:
 
 ## Apêndice 01: Arquétipos
 
@@ -216,13 +240,26 @@ Arquétipos (1d12)
 1.
 
 ### A Portadora do Primeiro Coldre
+Você carrega consigo uma relíquia de inimaginável poder e inestimável valor: o primeiro coldre. Mais antigo que a primeira arma, têm vida própria e agora cabe a você decidir: empunhar o poder tétrico ou ser sua guardiã? De qualquer modo, ele parece... faminto.
+
+
+**Vinda das Profundezas**: Uma vez por dia, você pode comandar o coldre a cuspir uma abominação de aço, pólvora e ódio das profundezas do abismo. Role 1d6 e obtenha uma das armas durante 3 turnos:
+1. Lamúrio: um poderosíssimo rifle de longo alcance, suas munições rasgam o espaço-tempo, lançando um urro aterrorizante.
+1. Tirano: um par de espingardas de canos encurtados e acorrentadas uma a outra, adornadas com ossos e vomitando a fúria dos condenados.
+1. Presa: uma grotesca balestra biomecânica, gotejando sangue, com músculos repuxando tendões e engatilhando longas lascas quitinosas que servem de dardos.
+1. xxx
+1. xxx
+1. Hidra: uma monstruosidade de muitos canos, essa metralhadora giratória cospe chumbo arcano a longa distância e incinera qualquer um próximo.
+
+**Apetite Insaciável**: você pode alimentar armas ao coldre, destruindo-as por completo no processo. O Coldre guardará as últimas 10 armas que devorou e quaisquer outras estão irremediavelmente perdidas. A qualquer momento que fosse desembainhar uma arma, pode evocar uma imitação sombria de poder tétrico de uma das últimas 10 armas, idêntica à original. A arma só pode ser utilizada pela Portadora e se desfaz ao sair de suas mãos e ao final do combate, voltando para o coldre e ficando indisponível até o próximo dia.
+
 ### A Sangromante da Corte Rubra
 ### A Mestre do Kata da Pólvora Branca
 ### A Pistoleira Telecinética
 ### A Caçadora do Totem de Aço
 
 **Munição Uivante**:
-**Mastim Fiel**: uma arma sua é possuída por um poderoso espírito companheiro. O espírito não é capaz de se comunicar com palavras, mas a arma apresenta temperamento. Ninguém além de você consegue usá-la e qualquer tiro sai pela culatra, garantindo dano crítico.
+**Mastim Fiel**: uma arma sua é possuída por um poderoso espírito companheiro. O espírito não é capaz de se comunicar com palavras, mas a arma apresenta temperamento. Ninguém além de você consegue usá-la e qualquer tiro sairá pela culatra, garantindo dano crítico.
 
 ### A Empunhadora do Permafrost
 ### A Empunhadora da Termita
@@ -237,7 +274,7 @@ Você sacaneou uma entidade ancestral da sorte no carteado, um demônio poderoso
 ### A Arauto, Arconte e Árbitro
 Édito
 ### A Draco-Demolidora
-
+Pássaros voam, peixes nadam e lobos caçam. Desde sempre a natureza inspira, mas é necessário uma força particularmente destrutiva pra impressionar uma Pistoleira Arcana. Munida de sangue incandescente, termita extraída de ossos, e estilhaços de escamas prontas para serem arremessadas de granadas, você empunha o furioso poderio explosivo dos tiranos escamosos vermelhos.
 
 ## Apêndice 02: Equipamento
 ## Apêndice 03: Magia
@@ -246,3 +283,7 @@ Feitiços são conjurados rapidamente e costumam ser imbuídos na munição das 
 Rituais não costumam ser disparados de armas de fogo e não são ágeis o suficiente para ser conjurados em combate.
 ### Feitiços
 ### Rituais
+### Componentes Materiais
+Às vezes é necessário combustível extra para a conjuração de feitiços particularmente poderosos. Abaixo, segue uma lista de elementos e aspectos associados.
+
+x. Fluido azul de um mastim de tíndalo: Espaço, tempo, violência
